@@ -1,0 +1,33 @@
+#top-bar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 1em .75em;
+}
+
+#logo {
+    font-size: 3em;
+    font-weight: bold;
+    width: 15%;
+}
+
+#nav-bar {
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+}
+
+#right {
+    margin-right: auto;
+    width: 15%;
+}
+
+.nav-item {
+    font-size: 1.5em;
+    padding: 1em 1em;
+}
+
+.nav-item:hover {
+    color: red;
+}
