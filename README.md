@@ -2,5 +2,7 @@
 The official website of Longhorn Keebs!
 
 # Contributors
-[Nayan Bandaru](https://github.com/nayanbandaru)
-[Kashif Bandali](https://github.com/kashband)
+[Nayan Bandaru](https://github.com/nayanbandaru)  
+[Kashif Bandali](https://github.com/kashband)  
+[Nathan Lu](https://github.com/NathanMLu)  
+[Ryan Chhong](https://github.com/rchhong)  
