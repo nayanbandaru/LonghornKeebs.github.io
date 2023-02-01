@@ -1,0 +1,26 @@
+
+/* container holding the image and the text */
+
+.container {
+  position : relative;
+}
+
+/* Bottom right Text */
+
+.text-block {
+  position: absolute;
+  opacity: 75%;
+  width: 300px;
+  top: 200px;
+  right: 20px;
+  background-color: maroon;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* used for centering and image */
+/*
+.center {
+
+}
